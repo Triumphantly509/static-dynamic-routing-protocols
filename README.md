@@ -25,3 +25,8 @@
 <div>
   <img width="1098" height="481" alt="image" src="https://github.com/user-attachments/assets/c584c47d-5640-4fa5-abd6-b3d2b6172700" />
 </div>
+
+- Exercise 3
+  <div>
+    <img width="1413" height="444" alt="image" src="https://github.com/user-attachments/assets/e3276163-ca0c-4233-8704-8ccd3881e7b3" />
+  </div>
